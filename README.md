@@ -1,2 +1,2 @@
 # Minicraft-Skins
-A Minicraft (the game before Minecraft) web page for skins.
+A Minicraft (<u>the game before Minecraft</u>) web page for skins.
