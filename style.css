@@ -9,7 +9,7 @@ body {
 
 @font-face {
     font-family: 'Minecraft';
-    src: url('fonts/minecraft.ttf') format('truetype');
+    src: url('fonts/mojangles.otf.woff2');
     font-weight: normal;
     font-style: normal;
 }
