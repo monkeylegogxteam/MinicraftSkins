@@ -1,0 +1,25 @@
+body {
+    background-attachment: fixed;
+    background-color: black;
+}
+
+.imagen1 {
+    border-radius: 30px;
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    src: url('fonts/minecraft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.texto-retro {
+    font-family: 'Minecraft', sans-serif;
+    font-size: 24px; /* Las fuentes pixeladas lucen mejor en múltiplos de 8 o 16 */
+    color: white;
+    /* Truco CSS para mantener los píxeles nítidos y sin desenfoque */
+    image-rendering: pixelated;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+}
